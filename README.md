@@ -41,6 +41,9 @@ In support group you can ask for help, discover/request new features, report bug
 
 ## How to setup/deploy.
 
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FDARKCYBERGANG%2FAstrakoBot)
+
+
 ### Read these notes carefully before proceeding 
  - Edit any mentions of @AstrakoBotSupport to your own support chat
  - Your code must be open source and a link to your fork's repository must be there in the start reply of the bot
