@@ -1,5 +1,5 @@
 {
-      "name": "IchigoBot",
+      "name": "AstrakoBot",
       "description": "An Anime themed Telegram group management bot.",
       "keywords": [
          "telegram",
@@ -8,7 +8,7 @@
          "manager",
          "Ichigo"
       ],   
-   "repository": "https://github.com/DARKCYBERGANG/IchigoBot",
+   "repository": "https://github.com/DARKCYBERGANG/AstrakoBot",
    "addons": [
       {
          "options": {
